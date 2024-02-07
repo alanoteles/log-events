@@ -1,0 +1,23 @@
+{
+  "name": "log-events",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanoteles/log-events.git"
+  },
+  "author": "Alano Teles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanoteles/log-events/issues"
+  },
+  "homepage": "https://github.com/alanoteles/log-events#readme",
+  "dependencies": {
+    "date-fns": "^3.3.1",
+    "uuid": "^9.0.1"
+  }
+}
